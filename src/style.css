@@ -6,7 +6,7 @@ li {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align:center;
+  text-align: center;
   margin-top: 200px;
   border: 2px solid gray;
 }
@@ -35,7 +35,7 @@ li {
   margin-right: 800px;
 }
 
-.task-text::placeholder{
+.task-text::placeholder {
   font-size: 20px;
   text-align: left;
   justify-content: left;
@@ -52,5 +52,3 @@ li {
   justify-content: left;
   margin-right: 950px;
 }
-
-
